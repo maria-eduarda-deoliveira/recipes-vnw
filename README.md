@@ -1,19 +1,8 @@
-# Fork
+# Projeto em dupla Vai Na Web.
+Um projeto feito com intuito de treinar trabalho em grupo.
 
-Para dar o fork no projeto, apenas precisa apertar no botão "fork" no canto superior!
-Em seguida, use o git clone para baixar o repositório.
+## Conteúdo
+O projeto conta com styled-components e react-scroll (para rolagem suave na mesma página), fontes Roboto e Saira Condensed.
 
-O comando: git clone https://github.com/maria-eduarda-deoliveira/recipes-vnw.git
-
-## Push
-
-Enviar os arquivos para o diretório:
-O comando: git push -u origin main
-
-## Pull
-
-Para atualizar os arquivos do projeto:
-
-O comando: git pull
-
-# O projeto já conta com styled-components! ❤️
+## Para rodar
+Para funcionar na máquina, dê *npm start* para abrir o local:3000. (Temporário até colocar gh-pages).
